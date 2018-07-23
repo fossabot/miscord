@@ -224,7 +224,12 @@ miscord(config).then(config => {
 ## Donate
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6MVRTWBXNH8J6)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRobCraftNet%2Fmiscord.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRobCraftNet%2Fmiscord?ref=badge_shield)
 
 **BTC**: <a href="bitcoin://36tci1gptNyPhvSJkrHg2EdVmH82cwW56R">36tci1gptNyPhvSJkrHg2EdVmH82cwW56R</a>  
 **ETH**: 0xe841ef23e1b94ed2122d248377e9fbeffebaad35  
 **ZEC**: t1ULEWqCCmVxmaxsRn5KGRXnDmeBY68uMWL
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRobCraftNet%2Fmiscord.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRobCraftNet%2Fmiscord?ref=badge_large)
